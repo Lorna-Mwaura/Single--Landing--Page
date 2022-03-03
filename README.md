@@ -1,5 +1,5 @@
 # Title
-Single--Landing--Page
+## Single--Landing--Page
 
 ## By Lona Wanjiku Mwaura
 # Table of content
