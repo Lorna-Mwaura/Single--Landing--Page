@@ -1,7 +1,6 @@
 # Title
 ## Single--Landing--Page
 
-## By Lona Wanjiku Mwaura
 # Table of content
 * Description
 * Installation Requirements
@@ -25,6 +24,6 @@ Languages used are HTML and Css.
 Copyright (c) 2022 [Click to view license](LICENSE)
 
 ### Author info 
-By Lorna-Mwaura
+## By Lorna-Mwaura
 
 
